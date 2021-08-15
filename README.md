@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá me chamo Luis Felipe 👋
 
-<!--
-**Lfelipedemelo/Lfelipedemelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com Back-end em java ☕
+- 🌱 Estudando Desenvolvimento Mobile 📱
+- 💬 Contato: lfelipedemelo@hotmail.com ou <a href="https://www.linkedin.com/in/luis-felipe-de-melo-b0a2291b5/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div style="display: inline_block"><br>
+  <a href="https://github.com/lfelipedemelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipedemelo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
